@@ -1,0 +1,56 @@
+body {
+    background: #222;
+    color: #fafafa;
+    margin: 0 auto;
+    width: 80vw;
+    text-align: left;
+    padding-top: 10vh;
+}
+
+h1 {
+    font-family: 'Space Mono', monospace;
+    font-size: 36px;
+}
+
+h3 {
+    font-family: 'Space Mono', monospace;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+a {
+    color: white;
+}
+
+.mform {
+    background: #222;
+    font-family: 'Space Mono', monospace;
+    font-size: 16px;
+}
+
+.button {
+    display: inline-block;
+    font-family: 'Space Mono', monospace;
+    font-size: 16px;
+    background-color: #FFAA91;
+    color: #222;
+    padding: 12px 20px 12px 20px;
+    border: none;
+    border-radius: 0px;
+    width: 80vw;
+    margin: 0;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #FF9700;
+}
+
+.email {
+    padding: 12px 20px 12px 20px;
+    width: 70vw;
+    font-family: 'Space Mono', monospace;
+    font-size: 16px;
+    background-color: #eee;
+    color: #222;
+}
